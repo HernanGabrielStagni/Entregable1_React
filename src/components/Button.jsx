@@ -10,7 +10,7 @@
         setNumImages(getRandomArray([1,2,3,4,5,6,7,8]))
     }
         return (
-    <button className='App__btn' onClick={handleChangePhrase}>Obtenga su Frase del Día</button>
+    <button className='App__btn' onClick={handleChangePhrase}>Pruebe Suerte</button>
   )
 }
 

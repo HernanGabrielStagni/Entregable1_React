@@ -24,7 +24,7 @@ function App() {
 
   return (
     <div style={appStyles} className="App">
-      <h1 className='App__title'>Galletas de La Fortuna</h1>
+      <h1 className='App__title'>Galletas de la Fortuna</h1>
      
       <Button 
       setPhraseRandom={setPhraseRandom}
