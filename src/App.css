@@ -35,7 +35,7 @@ button {
    
     text-align: center;
     font-family:Georgia, 'Times New Roman', Times, serif;
-    font-size: 1.5rem;
+    font-size: 2.5rem;
     font-weight: bold;
     color: rgba(113, 75, 29, 0.872);
    
@@ -45,10 +45,10 @@ button {
 
 .App__btn{
     display: block;
-    padding: 10px 1rem;
+    padding: 20px 1rem;
     margin-left: auto;
     margin-right: auto;
-    margin-top: 1rem;
+    margin-top: 3rem;
     background-color: rgb(234, 168, 16);
    
     color: rgba(114, 80, 38, 0.872);
@@ -72,7 +72,7 @@ button {
     
     margin-left: auto;
     margin-right: auto;
-    margin-top: 1rem;
+    margin-top: 2rem;
     
     box-shadow: 5px 5px 5px 5px rgba(8, 8, 8, 0.664);
     border-radius: .5rem;
@@ -93,7 +93,7 @@ button {
     padding: .6rem;
     margin-left: auto;
     margin-right: auto;
-    margin-top: 1rem;
+    margin-top: .3rem;
    
     border-radius: .5rem;
     border: 2px solid gray;
@@ -123,8 +123,8 @@ button {
 
 .App__btn{
    
-    padding: 1.rem 1rem;
-    font-size: 1.5rem;
+    padding: 1rem 1rem;
+    font-size: 1.rem;
     
     
    
