@@ -1,62 +1,103 @@
 [
     {
-      "phrase": "Lo que sospechabas es verdad, procura ser amable con ellos, pues esta bondad ayudará a que todo mejore.",
-      "author": "proverbia.net"
+      "frase": "Si algo puede salir mal, saldrá mal.",
+      "phrase": "If anything can go wrong, it will.",
+      "author": "Edward A. Murphy Jr."
     },
     {
-      "phrase": "Se te cumplirá un hermoso sueño y veras como otros sueños se hacen realidad.",
-      "author": "Proverbio Japones"
-      },
-    {
-      "phrase": "La realidad del ser humano es su pensamiento, no su cuerpo material.",
-      "author": "proverbia.net"
+      "frase": "La única forma de hacer que algo se haga bien es hacerlo uno mismo.",
+      "phrase": "The only way to do something right is to do it yourself.",
+      "author": "Charles-Guillaume Étienne"
     },
     {
-      "phrase": "Te casarás con un atleta profesional. Si las competencias de comer pueden ser consideradas un deporte.",
-      "author": "proverbia.net"
+      "frase": "Todo lleva más tiempo del que se piensa.",
+      "phrase": "Everything takes longer than you think.",
+      "author": "Edward A. Murphy Jr."
     },
     {
-      "phrase": "Valiente es aquel que ama..",
-      "author": "proverbia.net"
+      "frase": "Si hay más de una manera de hacer algo, y una de esas maneras puede resultar en un desastre, entonces alguien lo hará de esa manera.",
+      "phrase": "If there's more than one way to do something, and one of those ways can result in a disaster, then someone will do it that way.",
+      "author": "Edward A. Murphy Jr."
     },
     {
-      "phrase": "No tienes que ser más rápido que el oso, solo tienes que ser más rápido que el chico más lento que corre de él.",
-      "author": "proverbia.net"
+      "frase": "Si parece demasiado bueno para ser verdad, probablemente lo sea.",
+      "phrase": "If it seems too good to be true, it probably is.",
+      "author": "John Arbuthnot"
     },
     {
-      "phrase": "No te tomes la vida demasiado en serio. No saldrás de ella con vida.",
-      "author": "proverbia.net"
+      "frase": "Siempre hay una forma más fácil de hacer las cosas.",
+      "phrase": "There's always an easier way to do things.",
+      "author": "Robert A. Heinlein"
     },
     {
-      "phrase": "Mañana puede ser muy tarde para disfrutar lo que tienes hoy.",
-      "author": "ajescudero"
+      "frase": "Siempre que haya un problema, habrá alguien que lo ignore hasta que se convierta en una crisis.",
+      "phrase": "Whenever there's a problem, there will be someone who ignores it until it becomes a crisis.",
+      "author": "Edward A. Murphy Jr."
     },
     {
-      "phrase": "Cuando busques lo que mas deseas, recuerda hacer tu mejor esfuerzo.",
-      "author": "ajescudero"
+      "frase": "Cuando se hace una copia de seguridad, algo siempre sale mal.",
+      "phrase": "When you make a backup, something always goes wrong.",
+      "author": "Edward A. Murphy Jr."
     },
     {
-      "phrase": "No olvides que un amigo es un regalo que te das a ti mismo.",
-      "author": "ajescudero"
-    },
-     {
-      "phrase": "Alégrate, un camino de hermosas pasiones te espera y debes transitarlo.",
-      "author": "ajescudero"
+      "frase": "Si un experimento funciona, algo salió mal.",
+      "phrase": "If an experiment works, something went wrong.",
+      "author": "Edward A. Murphy Jr."
     },
     {
-      "phrase": "Una reputación de mil años puede depender de la conducta de una hora",
-      "author": "Proverbio Japones"
-      },
-    {
-      "phrase": "Siente la felicidad que espera por ti y no olvides atraparla para mantenerla contigo.",
-      "author": "ajescudero"
+      "frase": "Nunca se encuentra algo perdido hasta que se reemplaza.",
+      "phrase": "You never find something lost until you replace it.",
+      "author": "Edward A. Murphy Jr."
     },
     {
-      "phrase": "Alégrate, un camino de hermosas pasiones te espera y debes transitarlo",
-      "author": "ajescudero"
+      "frase": "Todo lo que empieza bien, termina mal.",
+      "phrase": "Everything that starts well ends badly.",
+      "author": "Robert A. Heinlein"
     },
     {
-      "phrase": "No todo el mundo puede recibir las mismas cosas. Se practico.",
-      "author": "ajescudero"
+      "frase": "Todo lo que puede empeorar, empeorará.",
+      "phrase": "Everything that can worsen, will worsen.",
+      "author": "Edward A. Murphy Jr."
+    },
+    {
+      "frase": "Nada es tan fácil como parece.",
+      "phrase": "Nothing is as easy as it looks.",
+      "author": "Edward A. Murphy Jr."
+    },
+    {
+      "frase": "Todo es mucho más complicado de lo que parece.",
+      "phrase": "Everything is much more complicated than it looks.",
+      "author": "Edward A. Murphy Jr."
+    },
+    {
+      "frase": "Si algo puede salir bien, saldrá mal de todos modos.",
+      "phrase": "If something can go well, it will go wrong anyway.",
+      "author": "Edward A. Murphy Jr."
+    },
+    {
+      "frase": "La única constante en el universo es la decepción.",
+      "phrase": "The only constant in the universe is disappointment.",
+      "author": "Robert A. Heinlein"
+    },
+    {
+      "frase": "Si hay un 50/50 de posibilidades de que algo salga mal, la probabilidad será del 90%.",
+      "phrase": "If there's a 50/50 chance of something going wrong, the probability will be 90%.",
+      "author": "Edward A. Murphy Jr."
+    },
+    {
+      "frase": "El dinero no puede comprar la felicidad, pero es mucho más cómodo llorar en un Mercedes que en una bicicleta.",
+      "phrase": "Money can't buy happiness, but it's much more comfortable to cry in a Mercedes than on a bicycle.",
+      "author": "Unknown"
+    },
+    {
+      "frase": "Si no puede hacerlo bien, al menos asegúrese de que parezca que lo hizo bien.",
+      "phrase": "If you can't do it well, at least make sure it looks like you did it well.",
+      "author": "Unknown"
+    },
+    {
+      "frase": "No importa cuán bien algo funcione, alguien siempre estará insatisfecho.",
+      "phrase": "No matter how well something works, someone will always be dissatisfied.",
+      "author": "Unknown"
     }
-]
+  ]
+  
