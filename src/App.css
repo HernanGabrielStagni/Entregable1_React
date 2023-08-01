@@ -20,7 +20,7 @@ button {
 .App{
     background-color: red;
     width: 100%;
-    height: 100vh;
+    height: 90vh;
     background-size: cover;
     background-position: center;
     display: flex;
@@ -55,7 +55,7 @@ margin-bottom: 10%;
     text-align: center;
     /* flex-wrap: wrap; */
     /* padding: 1em; */
-    gap:.8em 1em ;
+    gap:3em;
    
 }
 
@@ -63,7 +63,7 @@ margin-bottom: 10%;
 .App__btn{
    
     background-color: rgb(234, 168, 16);
-   
+   padding: .5em;
     color: rgba(114, 80, 38, 0.872);
     font-size: 1.5rem;
     font-weight: bold;
@@ -72,7 +72,8 @@ margin-bottom: 10%;
     letter-spacing: 1px;
       
     border: 2px solid rgba(240, 193, 66, 0.692);
-    border-radius: .8rem;
+    border-radius: 25%;
+    
 }
 
 .btn__Lenguage{
@@ -97,7 +98,7 @@ flex-direction: column;
     width: 100%;
     
     max-width: 500px;
-    background-color: rgba(244, 122, 29, 0.847);
+    background-color: rgba(112, 79, 55, 0.497);
     padding: 1rem;
     
     margin-left: auto;
