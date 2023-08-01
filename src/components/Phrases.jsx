@@ -5,7 +5,7 @@ const Phrases = ({phraseRandom,lenguageEs}) => {
       <div className="App__div-phrase">
           
           <p className="App__phrase">{lenguageEs ?phraseRandom.frase :phraseRandom.phrase}</p>
-          <p className="App__author">{lenguageEs ?`'Fuente:' ${phraseRandom.author}` :`'Source:'${phraseRandom.author}`}</p>
+          <p className="App__author">{lenguageEs ?`Fuente: ${phraseRandom.author}` :`Source:${phraseRandom.author}`}</p>
       
       </div>
     </>

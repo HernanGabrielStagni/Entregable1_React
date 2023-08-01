@@ -27,19 +27,22 @@ const [lenguageEs, setLenguageEs] = useState(false)
     <div style={appStyles} className="App">
       <h1 className='App__title'>{lenguageEs?"Leyes de Murphy" :"Murphy's laws"}</h1>
      
-     <div className='container__Buton_Lenguage '> 
+     <div className='container__Buton_Lenguage'> 
+          
+     <Lenguage
+          setPhraseRandom={setPhraseRandom}
+          setNumImages={setNumImages}
+          setLenguageEs={setLenguageEs}
+          lenguageEs={lenguageEs}
+          /> 
+          
           <Button 
              setPhraseRandom={setPhraseRandom}
               setNumImages={setNumImages}
               lenguageEs={lenguageEs}
            />
       
-          <Lenguage
-          setPhraseRandom={setPhraseRandom}
-          setNumImages={setNumImages}
-          setLenguageEs={setLenguageEs}
-          lenguageEs={lenguageEs}
-          /> 
+         
        </div>
        <Phrases 
        phraseRandom={phraseRandom}

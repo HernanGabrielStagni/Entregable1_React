@@ -18,7 +18,7 @@ const Button = ({setPhraseRandom,setLenguageEs,lenguageEs,setNumImages}) => {
 
      return (
       <>
-       <button className='btn__Lenguage' onClick={handleChangePhrase}>{lenguageEs ?'To English' :'A'+' '+'Español'}</button>
+       <button className='btn__Lenguage' onClick={handleChangePhrase}>{lenguageEs ?'To English' :'a '+'Español'}</button>
      
        </>
  
