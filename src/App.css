@@ -39,16 +39,24 @@ button {
     font-weight: bold;
     color: rgba(113, 75, 29, 0.872);
    
-    text-shadow: 3px 3px 3px rgb(192, 190, 190);
+    text-shadow: 3px 3px 3px rgb(163, 54, 54);
    
 }
 
+.container__Buton_Lenguage{
+    /* background-color: rgb(29, 172, 29); */
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    flex-wrap: wrap;
+    padding: 1em;
+    gap:.5em 1em ;
+   
+}
+
+
 .App__btn{
-    display: block;
-    padding: 10px 1rem;
-    margin-left: auto;
-    margin-right: auto;
-    margin-top: 3rem;
+   
     background-color: rgb(234, 168, 16);
    
     color: rgba(114, 80, 38, 0.872);
@@ -58,23 +66,34 @@ button {
     box-shadow: 2px 4px 8px 5px rgba(8, 8, 8, 0.664);
       
     border: 2px solid rgba(240, 193, 66, 0.692);
-    border-radius: .5rem;
+    border-radius: 1.5rem;
 }
 
 .btn__Lenguage{
-    font-size: 1rem;
-    color: red;
-    padding: 5px .5rem;
-    margin-top: 3rem;
-    margin-right: 25%;
+    font-size: .8rem;
+    color: rgb(249, 243, 243);
+    background-color: rgb(62, 63, 63);
+    border-radius: 5px;
+    height: 40%;
+    align-self:self-end;
+  
+
+    
     
 }
 
-.App__phrase{
+
+
+
+/* .App__phrase */
+.App__div-phrase{ 
+    display: flex;
+flex-direction: column;
+
     width: 100%;
-    height: 120px;
+    
     max-width: 500px;
-    background-color: rgba(239, 200, 171, 0.847);
+    background-color: rgba(244, 122, 29, 0.847);
     padding: 1rem;
     
     margin-left: auto;
@@ -92,16 +111,23 @@ button {
     text-shadow: 2px 1px 1px  rgb(243, 238, 238);
  
 }
+.App__phrase{
+    background-color: red;
+    /* width: 80%; */
 
-.App__div-author{
+}
+
+
+
+
+
+.App__author{
     
     max-width: 300px;
     background-color: rgba(232, 228, 228, 0.637);
     padding: .6rem;
-    margin-left: auto;
-    margin-right: auto;
-    margin-top: .3rem;
    
+    right: 1em;
     border-radius: .5rem;
     border: 2px solid gray;
 

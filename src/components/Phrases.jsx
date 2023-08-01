@@ -2,13 +2,12 @@
 const Phrases = ({phraseRandom,lenguageEs}) => {
   return (
     <>
-    <div className="App__div-phrase">
-        <p className="App__phrase">{lenguageEs ?phraseRandom.frase :phraseRandom.phrase}</p>
-        
-    </div>
-    <div className="App__div-author">
-      <p className="App__author">Fuente: {phraseRandom.author}</p>
-    </div>
+      <div className="App__div-phrase">
+          
+          <p className="App__phrase">{lenguageEs ?phraseRandom.frase :phraseRandom.phrase}</p>
+          <p className="App__author">{lenguageEs ?`'Fuente:' ${phraseRandom.author}` :`'Source:'${phraseRandom.author}`}</p>
+      
+      </div>
     </>
 
 
