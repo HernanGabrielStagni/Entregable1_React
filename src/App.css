@@ -25,8 +25,8 @@ button {
     background-position: center;
     display: flex;
     flex-direction: column;
-    padding: 1rem;
-    /* gap: .5rem; */
+    padding: 2rem;
+    gap: .5rem; 
     justify-content: center ;
    
     
@@ -183,10 +183,6 @@ scale: 1.1;
     font-size: 1.rem;
     
     
-   
-   
-    
-
 }
 .App__phrase{
     width: 100%;
