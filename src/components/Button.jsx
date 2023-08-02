@@ -17,7 +17,7 @@
   
         return (
          <>
-          <button className='App__btn' onClick={handleChangePhrase}>{lenguageEs ?'Ver Nueva Ley' :'Show New Law'}</button>
+          <button className='App__btn' onClick={handleChangePhrase}>{lenguageEs ?'Ver Nueva Frase' :'Show New Phrase'}</button>
         
           </>
     

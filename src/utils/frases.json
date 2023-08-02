@@ -1,103 +1,193 @@
 [
-    {
-      "frase": "Si algo puede salir mal, saldrá mal.",
-      "phrase": "If anything can go wrong, it will.",
-      "author": "Edward A. Murphy Jr."
-    },
-    {
-      "frase": "La única forma de hacer que algo se haga bien es hacerlo uno mismo.",
-      "phrase": "The only way to do something right is to do it yourself.",
-      "author": "Charles-Guillaume Étienne"
-    },
-    {
-      "frase": "Todo lleva más tiempo del que se piensa.",
-      "phrase": "Everything takes longer than you think.",
-      "author": "Edward A. Murphy Jr."
-    },
-    {
-      "frase": "Si hay más de una manera de hacer algo, y una de esas maneras puede resultar en un desastre, entonces alguien lo hará de esa manera.",
-      "phrase": "If there's more than one way to do something, and one of those ways can result in a disaster, then someone will do it that way.",
-      "author": "Edward A. Murphy Jr."
-    },
-    {
-      "frase": "Si parece demasiado bueno para ser verdad, probablemente lo sea.",
-      "phrase": "If it seems too good to be true, it probably is.",
-      "author": "John Arbuthnot"
-    },
-    {
-      "frase": "Siempre hay una forma más fácil de hacer las cosas.",
-      "phrase": "There's always an easier way to do things.",
-      "author": "Robert A. Heinlein"
-    },
-    {
-      "frase": "Siempre que haya un problema, habrá alguien que lo ignore hasta que se convierta en una crisis.",
-      "phrase": "Whenever there's a problem, there will be someone who ignores it until it becomes a crisis.",
-      "author": "Edward A. Murphy Jr."
-    },
-    {
-      "frase": "Cuando se hace una copia de seguridad, algo siempre sale mal.",
-      "phrase": "When you make a backup, something always goes wrong.",
-      "author": "Edward A. Murphy Jr."
-    },
-    {
-      "frase": "Si un experimento funciona, algo salió mal.",
-      "phrase": "If an experiment works, something went wrong.",
-      "author": "Edward A. Murphy Jr."
-    },
-    {
-      "frase": "Nunca se encuentra algo perdido hasta que se reemplaza.",
-      "phrase": "You never find something lost until you replace it.",
-      "author": "Edward A. Murphy Jr."
-    },
-    {
-      "frase": "Todo lo que empieza bien, termina mal.",
-      "phrase": "Everything that starts well ends badly.",
-      "author": "Robert A. Heinlein"
-    },
-    {
-      "frase": "Todo lo que puede empeorar, empeorará.",
-      "phrase": "Everything that can worsen, will worsen.",
-      "author": "Edward A. Murphy Jr."
-    },
-    {
-      "frase": "Nada es tan fácil como parece.",
-      "phrase": "Nothing is as easy as it looks.",
-      "author": "Edward A. Murphy Jr."
-    },
-    {
-      "frase": "Todo es mucho más complicado de lo que parece.",
-      "phrase": "Everything is much more complicated than it looks.",
-      "author": "Edward A. Murphy Jr."
-    },
-    {
-      "frase": "Si algo puede salir bien, saldrá mal de todos modos.",
-      "phrase": "If something can go well, it will go wrong anyway.",
-      "author": "Edward A. Murphy Jr."
-    },
-    {
-      "frase": "La única constante en el universo es la decepción.",
-      "phrase": "The only constant in the universe is disappointment.",
-      "author": "Robert A. Heinlein"
-    },
-    {
-      "frase": "Si hay un 50/50 de posibilidades de que algo salga mal, la probabilidad será del 90%.",
-      "phrase": "If there's a 50/50 chance of something going wrong, the probability will be 90%.",
-      "author": "Edward A. Murphy Jr."
-    },
-    {
-      "frase": "El dinero no puede comprar la felicidad, pero es mucho más cómodo llorar en un Mercedes que en una bicicleta.",
-      "phrase": "Money can't buy happiness, but it's much more comfortable to cry in a Mercedes than on a bicycle.",
-      "author": "Unknown"
-    },
-    {
-      "frase": "Si no puede hacerlo bien, al menos asegúrese de que parezca que lo hizo bien.",
-      "phrase": "If you can't do it well, at least make sure it looks like you did it well.",
-      "author": "Unknown"
-    },
-    {
-      "frase": "No importa cuán bien algo funcione, alguien siempre estará insatisfecho.",
-      "phrase": "No matter how well something works, someone will always be dissatisfied.",
-      "author": "Unknown"
-    }
-  ]
-  
+      {
+        "frase": "El secreto de la felicidad no es hacer siempre lo que se quiere, sino querer siempre lo que se hace.",
+        "phrase": "The secret of happiness is not always doing what you want, but wanting what you do.",
+        "author": "Antoine de Saint-Exupéry (El Principito)"
+      },
+      {
+        "frase": "Amar no es mirarse el uno al otro; es mirar juntos en la misma dirección.",
+        "phrase": "Love is not looking at each other; it's looking together in the same direction.",
+        "author": "Antoine de Saint-Exupéry (El Principito)"
+      },
+      {
+        "frase": "Lo esencial es invisible a los ojos.",
+        "phrase": "What is essential is invisible to the eye.",
+        "author": "Antoine de Saint-Exupéry (El Principito)"
+      },
+      {
+        "frase": "Sólo se ve bien con el corazón; lo esencial es invisible a los ojos.",
+        "phrase": "One sees clearly only with the heart; what is essential is invisible to the eye.",
+        "author": "Antoine de Saint-Exupéry (El Principito)"
+      },
+      {
+        "frase": "Todas las personas mayores fueron al principio niños, aunque pocas de ellas lo recuerdan.",
+        "phrase": "All grown-ups were once children, although few of them remember it.",
+        "author": "Antoine de Saint-Exupéry (El Principito)"
+      },
+      {
+        "frase": "Solo se ve bien con el corazón, lo esencial es invisible a los ojos.",
+        "phrase": "It is only with the heart that one can see rightly; what is essential is invisible to the eye.",
+        "author": "Antoine de Saint-Exupéry (El Principito)"
+      },
+      {
+        "frase": "He aquí mi secreto, que no puede ser más simple: solo con el corazón se puede ver bien; lo esencial es invisible a los ojos.",
+        "phrase": "And now here is my secret, a very simple secret: It is only with the heart that one can see rightly; what is essential is invisible to the eye.",
+        "author": "Antoine de Saint-Exupéry (El Principito)"
+      },
+      {
+        "frase": "Si me domesticas, entonces tendremos necesidad el uno del otro. Serás para mí único en el mundo, seré para ti único en el mundo.",
+        "phrase": "If you tame me, then we shall need each other. To me, you will be unique in all the world. To you, I shall be unique in all the world.",
+        "author": "Antoine de Saint-Exupéry (El Principito)"
+      },
+      {
+        "frase": "Lo que embellece el desierto es que en alguna parte esconde un pozo.",
+        "phrase": "What makes the desert beautiful is that somewhere it hides a well.",
+        "author": "Antoine de Saint-Exupéry (El Principito)"
+      },
+      {
+        "frase": "El amor verdadero comienza cuando no se busca nada a cambio.",
+        "phrase": "True love begins when nothing is looked for in return.",
+        "author": "Antoine de Saint-Exupéry (El Principito)"
+      },
+      {
+        "frase": "El secreto de avanzar es comenzar.",
+        "phrase": "The secret of advancing is to start.",
+        "author": "N.N."
+      },
+      {
+        "frase": "Nunca es tarde para ser lo que podrías haber sido.",
+        "phrase": "It's never too late to be what you might have been.",
+        "author": "George Eliot"
+      },
+      {
+        "frase": "El único lugar donde el éxito viene antes que el trabajo es en el diccionario.",
+        "phrase": "The only place where success comes before work is in the dictionary.",
+        "author": "Vidal Sassoon"
+      },
+      {
+        "frase": "No tengas miedo de renunciar a lo bueno para perseguir lo grandioso.",
+        "phrase": "Don't be afraid to give up the good to go for the great.",
+        "author": "John D. Rockefeller"
+      },
+      {
+        "frase": "La única forma de hacer un gran trabajo es amar lo que haces.",
+        "phrase": "The only way to do great work is to love what you do.",
+        "author": "Steve Jobs"
+      },
+      {
+        "frase": "No hay atajos para llegar a un lugar que vale la pena.",
+        "phrase": "There are no shortcuts to any place worth going.",
+        "author": "Beverly Sills"
+      },
+      {
+        "frase": "El fracaso es solo la oportunidad de comenzar de nuevo de forma más inteligente.",
+        "phrase": "Failure is simply the opportunity to begin again, this time more intelligently.",
+        "author": "Henry Ford"
+      },
+      {
+        "frase": "No busques el momento perfecto, solo hazlo ahora.",
+        "phrase": "Don't wait for the perfect moment, just do it now.",
+        "author": "N.N."
+      },
+      {
+        "frase": "Cree en ti mismo y estarás a mitad de camino.",
+        "phrase": "Believe in yourself and you are halfway there.",
+        "author": "N.N."
+      },
+      {
+        "frase": "El éxito no es el final, el fracaso no es fatal: es el coraje para continuar lo que cuenta.",
+        "phrase": "Success is not final, failure is not fatal: It is the courage to continue that counts.",
+        "author": "Winston Churchill"
+      },
+      {
+        "frase": "Siempre parece imposible hasta que se hace.",
+        "phrase": "It always seems impossible until it's done.",
+        "author": "Nelson Mandela"
+      },
+      {
+        "frase": "El optimismo es la fe que conduce al logro. Nada se puede hacer sin esperanza y confianza.",
+        "phrase": "Optimism is the faith that leads to achievement. Nothing can be done without hope and confidence.",
+        "author": "Helen Keller"
+      },
+      {
+        "frase": "No te preguntes si podrás hacerlo; pregúntate cómo lo harás.",
+        "phrase": "Don't ask yourself if you can do it; ask yourself how you will do it.",
+        "author": "N.N."
+      },
+      {
+        "frase": "El viaje de mil millas comienza con un solo paso.",
+        "phrase": "The journey of a thousand miles begins with a single step.",
+        "author": "Lao Tzu"
+      },
+      {
+        "frase": "Tu tiempo es limitado, no lo malgastes viviendo la vida de otra persona.",
+        "phrase": "Your time is limited, don't waste it living someone else's life.",
+        "author": "Steve Jobs"
+      },
+      {
+        "frase": "El miedo es solo una ilusión; avanza a pesar de él.",
+        "phrase": "Fear is just an illusion; move forward despite it.",
+        "author": "N.N."
+      },
+      {
+        "frase": "La perseverancia es la clave del éxito.",
+        "phrase": "Perseverance is the key to success.",
+        "author": "N.N."
+      },
+      {
+        "frase": "El éxito no se trata de cuántas veces caes, sino de cuántas veces te levantas.",
+        "phrase": "Success is not about how many times you fall, but how many times you get up.",
+        "author": "Vince Lombardi"
+      },
+      {
+        "frase": "La vida es 10% lo que nos sucede y 90% cómo reaccionamos ante ello.",
+        "phrase": "Life is 10% what happens to us and 90% how we react to it.",
+        "author": "Charles R. Swindoll"
+      },
+      {
+        "frase": "Sé la mejor versión de ti mismo, no una copia de alguien más.",
+        "phrase": "Be the best version of yourself, not a copy of someone else.",
+        "author": "N.N."
+      },
+      {
+        "frase": "El futuro pertenece a quienes creen en la belleza de sus sueños.",
+        "phrase": "The future belongs to those who believe in the beauty of their dreams.",
+        "author": "Eleanor Roosevelt"
+      },
+      {
+        "frase": "Las dificultades preparan personas comunes para destinos extraordinarios.",
+        "phrase": "Difficulties prepare ordinary people for extraordinary destinies.",
+        "author": "N.N."
+      },
+      {
+        "frase": "Cada día es una nueva oportunidad para cambiar tu vida.",
+        "phrase": "Every day is a new opportunity to change your life.",
+        "author": "N.N."
+      },
+      {
+        "frase": "Cuando cambias tu mentalidad, puedes cambiar tu realidad.",
+        "phrase": "When you change your mindset, you can change your reality.",
+        "author": "N.N."
+      },
+      {
+        "frase": "La excelencia no es un acto, es un hábito.",
+        "phrase": "Excellence is not an act, it's a habit.",
+        "author": "Aristotle"
+      },
+      {
+        "frase": "El éxito es la suma de pequeños esfuerzos repetidos día tras día.",
+        "phrase": "Success is the sum of small efforts repeated day in and day out.",
+        "author": "Robert Collier"
+      },
+      {
+        "frase": "Las oportunidades no ocurren; las creas tú mismo.",
+        "phrase": "Opportunities don't happen; you create them yourself.",
+        "author": "Chris Grosser"
+      },
+      {
+        "frase": "No busques el reconocimiento externo; encuentra la satisfacción interna.",
+        "phrase": "Don't seek external recognition; find internal satisfaction.",
+        "author": "N.N."
+      }
+      
+    ]  

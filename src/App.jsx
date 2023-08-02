@@ -25,7 +25,7 @@ const [lenguageEs, setLenguageEs] = useState(false)
 
   return (
     <div style={appStyles} className="App">
-      <h1 className='App__title'>{lenguageEs?"Leyes de Murphy" :"Murphy's laws"}</h1>
+      <h1 className='App__title'>{lenguageEs?"Grandes Frases" :"Great Phrases"}</h1>
      
      <div className='container__Buton_Lenguage'> 
           
