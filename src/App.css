@@ -25,7 +25,7 @@ button {
     background-position: center;
     display: flex;
     flex-direction: column;
-    padding: 2rem;
+    padding: 1rem;
     gap: .5rem; 
     justify-content: center ;
    
