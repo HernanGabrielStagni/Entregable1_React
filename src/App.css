@@ -98,15 +98,15 @@ scale: 1.1;
 
 
 .ES{
-    background-color: rgb(195, 72, 72);
-align-self: flex-end;
-margin-right:  50%;
+    background-color: rgb(130, 233, 65);
+    align-self: center;
+    margin-left: 25%;
 }
 
 .ING{
-    background-color: rgb(140, 136, 172);
-    align-self:flex-start;
-    margin-left:  50%;
+    background-color: rgb(231, 180, 15);
+    align-self: center;
+    margin-left: -25%;
 }
 
 .btn__Lenguage:hover{
