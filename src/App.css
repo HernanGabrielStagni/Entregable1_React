@@ -55,7 +55,7 @@ button {
     text-align: center;
     /* flex-wrap: wrap; */
     /* padding: 1em; */
-    gap:2em;
+    gap:1.5em;
    
 }
 
@@ -63,7 +63,7 @@ button {
 .App__btn{
    
     background-color: rgb(234, 168, 16);
-   padding: .8em;
+    padding: .8em;
     color: rgba(114, 80, 38, 0.872);
     font-size: 1.5rem;
     font-weight: bold;
@@ -114,8 +114,8 @@ scale: 1.1;
     
     margin-left: auto;
     margin-right: auto;
-    margin-top: 2em;
-    margin-bottom: 4em;
+    margin-top: 1em;
+    margin-bottom: 6em;
     
     box-shadow: 5px 5px 5px 5px rgba(8, 8, 8, 0.664);
     border-radius: .5rem;
