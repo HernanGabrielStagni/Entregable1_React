@@ -36,9 +36,9 @@ button {
 
    background-color: rgba(56, 40, 3, 0.823); 
     text-align: center;
-    padding: 0.5em 0em;
+    padding: 0.5em 0.1em;
        font-family:Georgia, 'Times New Roman', Times, serif;
-       font-size: 2.rem;
+       font-size: 1.8rem;
        font-weight: bold;
     color: rgba(249, 154, 37, 0.872);
     border-radius: 15px;
@@ -61,7 +61,7 @@ button {
 
 
 .App__btn{
-width: 50%;   
+width: 55%;   
     background-color: rgb(234, 168, 16);
     padding: 1em;
     color: rgba(26, 24, 23, 0.872);
