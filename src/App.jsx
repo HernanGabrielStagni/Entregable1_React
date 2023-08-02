@@ -29,20 +29,20 @@ const [lenguageEs, setLenguageEs] = useState(false)
      
      <div className='container__Buton_Lenguage'> 
           
-     <Lenguage
-          setPhraseRandom={setPhraseRandom}
-          setNumImages={setNumImages}
-          setLenguageEs={setLenguageEs}
-          lenguageEs={lenguageEs}
-          /> 
-          
+   
           <Button 
              setPhraseRandom={setPhraseRandom}
               setNumImages={setNumImages}
               lenguageEs={lenguageEs}
            />
       
-         
+      <Lenguage
+          setPhraseRandom={setPhraseRandom}
+          setNumImages={setNumImages}
+          setLenguageEs={setLenguageEs}
+          lenguageEs={lenguageEs}
+          /> 
+          
        </div>
        <Phrases 
        phraseRandom={phraseRandom}

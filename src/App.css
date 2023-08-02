@@ -60,6 +60,8 @@ button {
 }
 
 
+
+
 .App__btn{
    
     background-color: rgb(234, 168, 16);
@@ -93,11 +95,25 @@ scale: 1.1;
     padding: 8px;
     
 }
+
+
+.ES{
+    background-color: rgb(195, 72, 72);
+align-self: flex-end;
+margin-right:  50%;
+}
+
+.ING{
+    background-color: rgb(140, 136, 172);
+    align-self:flex-start;
+    margin-left:  50%;
+}
+
 .btn__Lenguage:hover{
     scale: 1.2;
     opacity: 80%;
     color: rgb(11, 11, 11);
-    background-color: white;
+    /* background-color: white; */
     }
 
 /* .App__phrase */

@@ -13,13 +13,13 @@ const Button = ({setPhraseRandom,setLenguageEs,lenguageEs,setNumImages}) => {
      setLenguageEs(!(lenguageEs))
      console.log(lenguageEs) 
  }
-
+const clase=lenguageEs ?'ES' :'ING'
 
 
      return (
       <>
-       <button className='btn__Lenguage' onClick={handleChangePhrase}>{lenguageEs ?'To English' :'a '+'Español'}</button>
-     
+       <button className={`btn__Lenguage ${clase}`} onClick={handleChangePhrase}>{lenguageEs ?'To English' :'a '+'Español'}</button>
+   
        </>
  
  //aqui se asocia el click con la actualizacuion de los estados y al ser estados en vez de variables se renderizan y muestran en el html
@@ -28,7 +28,7 @@ const Button = ({setPhraseRandom,setLenguageEs,lenguageEs,setNumImages}) => {
 
 export default Button
 
-
+// className={`pokemon__stats-value color-${pokemon?.types[0].type.name}`}
 
 
 
