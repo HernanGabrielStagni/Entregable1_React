@@ -1,5 +1,7 @@
 
 const Phrases = ({phraseRandom,lenguageEs}) => {
+  
+  
   return (
     <>
       <div className="App__div-phrase">
