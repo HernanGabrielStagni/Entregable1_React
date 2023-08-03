@@ -100,13 +100,13 @@ scale: 1.1;
 
 
 .ES{
-    background-color: rgb(146, 52, 9);
+    background-color: rgb(249, 131, 77);
     align-self: center;
     margin-left: 70%;
 }
 
 .ING{
-    background-color: rgb(113, 88, 6);
+    background-color: rgb(223, 148, 19);
     align-self: center;
     margin-left: -70%;
 }
@@ -128,7 +128,7 @@ scale: 1.1;
     height: 35%;
     
     max-width: 500px;
-    background-color: rgba(112, 79, 55, 0.497);
+    background-color: rgba(176, 84, 75, 0.497);
     padding: 1rem;
     
     margin-left: auto;
@@ -217,7 +217,7 @@ scale: 1.1;
     }
 
 .App__phrase{
-    background-color: rgb(199, 154, 154); 
+    background-color: rgba(154, 124, 124, 0.492); 
     /* width: 80%; */
     
     padding: 1em;
