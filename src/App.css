@@ -148,8 +148,76 @@ scale: 1.1;
     position: relative;
  
 }
+.obj1,.obj2,.obj3,.obj4{
+
+    border: 0;
+    display: block;
+    position: absolute;
+    top: 0;
+    left: 0;
+    /* background-color: rgb(94, 81, 160); */
+    animation: vueltas 7s linear infinite normal both; 
+    }
+
+    .obj1{
+        width: 35%;
+        height: 25%;
+        top: 65vh;
+        /* background-color: rgb(223, 15, 15); */
+        animation-delay: 1s;
+    }
+    .obj2{
+        width: 8%;
+        height: 8%;
+        top: 70vh;
+        left: 20%;
+        /* background-color: rgb(223, 15, 15); */
+        animation-delay: 3s;
+    }
+    .obj3{
+        width: 10%;
+        height: 10%;
+        top: 80vh;
+        /* background-color: rgb(223, 15, 15); */
+        left: 50%;
+        animation-delay: 2s;
+    }
+    .obj4{
+        width: 22%;
+        
+        top: 60vh;
+        /* background-color: rgb(223, 15, 15); */
+        aspect-ratio: 1/1;
+        left: 70%;
+        animation-delay: 2s;
+        
+    }
+    /* ################################################################ */
+    @keyframes vueltas{
+        from{
+            transform: rotate(0deg);
+            top: 0;
+            opacity: 0;
+        }
+        15%{
+            opacity: 1;
+        }
+
+        60%{
+            opacity: 1;
+        }
+        100%{
+            opacity: 0;
+        }
+        to{
+           
+            transform: rotate(360deg);
+        }
+
+    }
+
 .App__phrase{
-    /* background-color: red; */
+    background-color: rgb(199, 154, 154); 
     /* width: 80%; */
     
     padding: 1em;
