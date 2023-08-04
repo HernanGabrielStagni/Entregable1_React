@@ -103,12 +103,14 @@ scale: 1.1;
     background-color: rgb(249, 131, 77);
     align-self: center;
     margin-left: 70%;
+    transition:  margin-left  1s;
 }
 
 .ING{
     background-color: rgb(223, 148, 19);
     align-self: center;
     margin-left: -70%;
+    transition:  margin-left  1s;
 }
 
 .btn__Lenguage:hover{
