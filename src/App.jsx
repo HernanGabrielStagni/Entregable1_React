@@ -33,8 +33,7 @@ const [lenguageEs, setLenguageEs] = useState(false)
       <img className="obj6" src="/icons/Sin título-1.png" alt="" />
       <img className="obj7" src="/icons/Sin título-3.png" alt="" />
       <img className="obj8" src="/icons/Sin título-3.png" alt="" />
-      <img className="obj9" src="/icons/Sin título-3.png" alt="" />
-      <img className="obj10" src="/icons/Sin título-3.png" alt="" />
+      
          {/* <span className="obj1">Obj_1</span>
          <span className="obj2">Obj_2</span> 
          <span className="obj3">Obj_3</span>
