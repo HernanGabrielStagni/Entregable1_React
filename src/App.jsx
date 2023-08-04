@@ -26,12 +26,15 @@ const [lenguageEs, setLenguageEs] = useState(false)
   return (
     <div style={appStyles} className="App">
       <img className="obj1" src="/icons/Sin título-1.png" alt="" />
-      <img className="obj2" src="/icons/Sin título-3.png" alt="" />
-      <img className="obj3" src="/icons/Sin título-2.png" alt="" />
-      <img className="obj4" src="/icons/Sin título-3.png" alt="" /> 
       <img className="obj2" src="/icons/Sin título-2.png" alt="" />
-      <img className="obj2" src="/icons/Sin título-3.png" alt="" />
       <img className="obj3" src="/icons/Sin título-1.png" alt="" />
+      <img className="obj4" src="/icons/Sin título-2.png" alt="" /> 
+      <img className="obj5" src="/icons/Sin título-3.png" alt="" />
+      <img className="obj6" src="/icons/Sin título-1.png" alt="" />
+      <img className="obj7" src="/icons/Sin título-3.png" alt="" />
+      <img className="obj8" src="/icons/Sin título-3.png" alt="" />
+      <img className="obj9" src="/icons/Sin título-3.png" alt="" />
+      <img className="obj10" src="/icons/Sin título-3.png" alt="" />
          {/* <span className="obj1">Obj_1</span>
          <span className="obj2">Obj_2</span> 
          <span className="obj3">Obj_3</span>

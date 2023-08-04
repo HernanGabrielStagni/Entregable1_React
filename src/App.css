@@ -148,7 +148,7 @@ scale: 1.1;
     position: relative;
  
 }
-.obj1,.obj2,.obj3,.obj4{
+.obj1,.obj2,.obj3,.obj4,.obj5,.obj6,.obj7,.obj8,.obj9,.obj10{
 
     border: 0;
     display: block;
@@ -161,37 +161,87 @@ scale: 1.1;
 
     .obj1{
         width: 35%;
-        height: 25%;
+        aspect-ratio: 1;
         top: 65vh;
+        left: 5%;
         /* background-color: rgb(223, 15, 15); */
         animation-delay: 1s;
     }
     .obj2{
-        width: 8%;
-        height: 8%;
+        width: 48%;
+        aspect-ratio: 1;
         top: 70vh;
         left: 20%;
         /* background-color: rgb(223, 15, 15); */
-        animation-delay: 3s;
+        animation-delay: 4s;
     }
     .obj3{
-        width: 10%;
-        height: 10%;
+        width: 50%;
+        aspect-ratio: 1;
         top: 80vh;
         /* background-color: rgb(223, 15, 15); */
         left: 50%;
-        animation-delay: 2s;
+        animation-delay: 6s;
     }
     .obj4{
         width: 22%;
-        
-        top: 60vh;
-        /* background-color: rgb(223, 15, 15); */
         aspect-ratio: 1/1;
+        top: 60vh;
         left: 70%;
-        animation-delay: 2s;
+        animation-delay: 12s;
         
     }
+    .obj5{
+        width: 35%;
+        aspect-ratio: 1/1;
+        top: 65vh;
+        left: 50%;
+        /* background-color: rgb(223, 15, 15); */
+        animation-delay: 2s;
+    }
+    .obj6{
+        width: 40%;
+        aspect-ratio: 1/1;
+        top: 65vh;
+        left: 30%;
+        /* background-color: rgb(223, 15, 15); */
+        animation-delay: 7s;
+    }
+    .obj7{
+        width: 20%;
+        aspect-ratio: 1;
+        top: 65vh;
+        left: 80%;
+        /* background-color: rgb(223, 15, 15); */
+        animation-delay: 1s;
+    }
+    .obj8{
+        width: 35%;
+        aspect-ratio: 1;
+        top: 65vh;
+        left: 20%;
+        /* background-color: rgb(223, 15, 15); */
+        animation-delay: 5s;
+    }
+    .obj9{
+        width: 35%;
+        aspect-ratio: 2;
+        top: 65vh;
+        left: 650%;
+        /* background-color: rgb(223, 15, 15); */
+        animation-delay: 3s;
+    }
+    .obj10{
+        width: 35%;
+        aspect-ratio: 1;
+        top: 85vh;
+        left: 50%;
+        /* background-color: rgb(223, 15, 15); */
+        animation-delay: 14s;
+    }
+    
+    
+    
     /* ################################################################ */
     @keyframes vueltas{
         from{
