@@ -155,7 +155,7 @@ scale: 1.1;
     border: 0;
     display: block;
     position: absolute;
-    top: 65vh;
+    top: 95vh;
     left: 0;
     /* background-color: rgb(94, 81, 160); */
     animation: vueltas 7s linear infinite normal both; 
@@ -167,7 +167,7 @@ scale: 1.1;
         animation-delay: 1s;
     }
     .obj2{
-        width: 6%;
+        width: 16%;
         left: 15%;
         animation-delay: 4s;
     }
@@ -183,7 +183,7 @@ scale: 1.1;
       
     }
     .obj5{
-        width: 5%;
+        width: 25%;
         left: 45%;
         animation-delay: 2s;
     }
@@ -340,7 +340,7 @@ scale: 1.1;
     
 
 .ES{
-    background-color: rgb(241, 68, 68);
+    background-color: rgb(244, 14, 14);
     align-self: center;
     margin-left: 30%;
 }

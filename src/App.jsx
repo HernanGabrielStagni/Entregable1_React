@@ -27,7 +27,7 @@ const [lenguageEs, setLenguageEs] = useState(false)
     <div style={appStyles} className="App">
       <img className="obj1" src="/icons/Sin título-1.png" alt="" />
       <img className="obj2" src="/icons/Sin título-2.png" alt="" />
-      <img className="obj3" src="/icons/Sin título-1.png" alt="" />
+      <img className="obj3" src="/icons/Sin título-3.png" alt="" />
       <img className="obj4" src="/icons/Sin título-2.png" alt="" /> 
       <img className="obj5" src="/icons/Sin título-3.png" alt="" />
       <img className="obj6" src="/icons/Sin título-1.png" alt="" />
